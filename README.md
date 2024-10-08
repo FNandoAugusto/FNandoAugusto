@@ -2,7 +2,6 @@
 
 # Wellcome to my profile😁😁
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=FNandoAugusto&show_icons=true&theme=dracula&count_private=true)
 
 
 - 🔭 I’m currently working on __Gran services in IT Sector__
